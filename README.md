@@ -30,7 +30,7 @@ as classes do Bootstrap. Abaixo segue um exemplo de grid system mencionado anter
 
 <p align="justify">Glassmorphism é um estilo gráfico moderno, que está ganhando o entusiasmo de vários designers de IU e marcas.
 Esse novo estilo de interface do usuário é fácil de alcançar. Ele traz em jogo a transparência e o efeito borrado de seus componentes visuais, para compor um diferente elemento de efeito de vidro.
-Neste projeto, utilizei o glassmorphism no menu de navegação e também para dar um destaque para a apresentação. Para conseguir o efeito utilizei o site do <a href="https://css.glass/" target="_blank">css.glass</a></p>
+Neste projeto, utilizei o glassmorphism no menu de navegação e também para dar um destaque para a apresentação. Para conseguir o efeito utilizei o site do <a href="https://css.glass/" target="_blank" > css.glass</a></p>
 
 <p align="center">
   <img height=400 src="https://user-images.githubusercontent.com/98363192/221417227-9d41b324-7df3-4734-b806-c9968df0c71f.png">
